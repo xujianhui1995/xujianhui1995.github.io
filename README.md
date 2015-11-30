@@ -4,10 +4,7 @@
 		<title>我的第一个网页</title>
 	</head>
 	<body>
-		<ul>
-		<li>Mike</li>
-		<li>Coffee<ol><li>Mike</li></></li>
-
-
+		First page
+		
 	</body>
 </html>
