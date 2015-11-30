@@ -5,6 +5,6 @@
 	</head>
 	<body>
 		First page
-		
+	</body>	
 	
 </html>
