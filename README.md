@@ -6,5 +6,5 @@
 	<body>
 		First page
 		
-	</body>
+	
 </html>
